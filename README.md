@@ -1,0 +1,3 @@
+# github-basics
+Remote repo to help me test out my Github skillz!
+[I'm this on Lynda.com!] (http://www.lynda.com)
